@@ -1,103 +1,36 @@
-# sarvesh
+# 👋 Hey, I'm Sarvesh Ghadge
 
- Hey, I'm Sarvesh Ghadge
-📊 Data Analyst | 💡 Data Analytics | 
-🎓 B.Sc. Computer Science Graduate
+📊 **Data Analyst** | 🐍 **Python & SQL** | 📈 **Power BI & Excel**
 
-📍 India | 🚀 Building Data-Driven Solutions
+🎓 Data Analyst & Problem Solver  
+📍 Pune, India | 🚀 Turning Raw Data into Actionable Business Insights  
+💼 Open to Data Analyst Opportunities  
 
-💻 Turning Data into Insights & Insights into Decisions
+---
 
-🚀 About Me
-👋 I'm a Computer Science graduate passionate about Data Analytics, Business Intelligence and Artificial Intelligence.
+### 🚀 About Me
 
-📊 I work with SQL, Python, Excel and Power BI to clean, analyze, visualize and transform data into meaningful business insights.
+- 📊 Passionate about **Data Analytics, Business Intelligence, and Data Modeling**.
+- 🛠️ I work with **Python, SQL, Power BI, and Excel** to clean, analyze, visualize, and extract business value from complex datasets.
+- 🎯 Focused on building end-to-end data pipelines, interactive dashboards, and analytical reports.
+- 💬 *"Turning raw data into insights, and insights into decisions."*
 
-🤖 I'm also exploring ** Generative AI, LLMs, RAG and modern data technologies** to build smarter and more impactful solutions.
+---
 
-🎯 My goal is to solve real-world problems by combining Data + Technology + Business Understanding.
+### 🛠️ Tech Stack
 
-💭 "Turning raw data into insights, and insights into decisions."
+**Languages & Databases:**  
+`Python` `SQL` `PostgreSQL` `MySQL`
 
-🛠️ Tech Stack
-📊 Data Analytics & Business Intelligence
-   
+**Libraries & Tools:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`
 
-🐍 Programming & Data Science
-    
-   
-🔄 My Data Analytics Workflow
-📥 Raw Data
-     ↓
-🧹 Data Cleaning
-     ↓
-🔍 Exploratory Data Analysis
-     ↓
-🗄️ SQL Analysis
-     ↓
-🧩 Data Modeling
-     ↓
-📊 Visualization & Dashboards
-     ↓
-💡 Business Insights
-     ↓
-🎯 Data-Driven Decisions
-🧠 Currently Exploring
-🔭 Currently Exploring
-🤖 Generative AI
+**BI & Reporting:**  
+`Power BI` `DAX` `Advanced Excel` `Tableau`
 
-🧠 Large Language Models (LLMs)
+---
 
-📚 Retrieval-Augmented Generation (RAG)
+### 📬 Connect with Me
 
-🔗 APIs & AI Applications
-
-⚙️ ETL & Data Pipelines
-
-☁️ Cloud Technologies
-
-🗄️ Data Engineering Fundamentals
-
-💡 Areas of Interest
-📊 Data Analytics
-
-📈 Business Intelligence
-
-🧠 Machine Learning
-
-🤖 Artificial Intelligence
-
-✨ Generative AI
-
-🗄️ Data Engineering
-
-☁️ Cloud & Modern Data Technologies
-
-
-📜 Certifications & Learning
-🐍 Data Analysis Using Python — IBM
-
-🐍 Python for Data Science — IBM
-
-🤖 Data Science & Artificial Intelligence — NSDC
-
-🧠 Machine Learning with Python — IBM
-
-📊 Data Analytics Virtual Experience — Deloitte Forage
-
-🤖 Data Science and Analytics with Artificial Intelligence — IBM
-
-🐍 Python Essential for Data Science / Machine Learning
-
-🗄️ SQL | Power BI
-
-📈 Tableau | Advanced Excel
-
-🤝 Let's Connect
-  
-
-
-⭐ Thanks for visiting my profile!
-💡 Learn • Build • Analyze • Innovate
-
-🚀 Let's turn data into impact.
+- **Email:** [sarveshghadge0143@gmail.com](mailto:sarveshghadge0143@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sarveshghadge](https://linkedin.com)
