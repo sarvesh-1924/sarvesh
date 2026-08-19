@@ -33,4 +33,4 @@
 ### 📬 Connect with Me
 
 - **Email:** [sarveshghadge0143@gmail.com](mailto:sarveshghadge0143@gmail.com)
-- **LinkedIn:** [linkedin.com/in/sarveshghadge](https://linkedin.com)
+- **LinkedIn:** [in/sarvesh-ghadge-data-analyst](https://linkedin.com)
